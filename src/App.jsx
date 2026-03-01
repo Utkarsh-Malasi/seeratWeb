@@ -14,7 +14,7 @@ const projects = [
     typeLabel: 'TV Serial',
     role: 'Child Artist',
     year: '2024',
-    image: 'https://img.youtube.com/vi/XcsJrkamw5w/maxresdefault.jpg',
+    image: 'https://img.youtube.com/vi/XcsJrkamw5w/hqdefault.jpg',
     videoLink: 'https://www.youtube.com/watch?v=XcsJrkamw5w',
   },
 
@@ -25,7 +25,7 @@ const projects = [
     typeLabel: 'TV Serial',
     role: 'Supporting Child Role',
     year: '2024',
-    image: 'https://img.youtube.com/vi/0X5M33ABkd8/maxresdefault.jpg',
+    image: 'https://img.youtube.com/vi/0X5M33ABkd8/hqdefault.jpg',
     videoLink: 'https://www.youtube.com/watch?v=0X5M33ABkd8',
   },
 
@@ -36,7 +36,7 @@ const projects = [
     typeLabel: 'TV Serial',
     role: 'Child Artist',
     year: '2024',
-    image: 'https://img.youtube.com/vi/ENUsFOm9BNk/maxresdefault.jpg',
+    image: 'https://img.youtube.com/vi/ENUsFOm9BNk/hqdefault.jpg',
     videoLink: 'https://www.youtube.com/watch?v=ENUsFOm9BNk',
   },
 
@@ -49,7 +49,7 @@ const projects = [
     typeLabel: 'Music Video',
     role: 'Featured Performance',
     year: '2023',
-    image: 'https://img.youtube.com/vi/BR6LqRAfb4g/maxresdefault.jpg',
+    image: 'https://img.youtube.com/vi/BR6LqRAfb4g/hqdefault.jpg',
     videoLink: 'https://www.youtube.com/watch?v=BR6LqRAfb4g',
   },
 
@@ -60,7 +60,8 @@ const projects = [
     typeLabel: 'Music Video',
     role: 'Featured Appearance',
     year: '2023',
-    image: 'https://via.placeholder.com/800x1000?text=Masoom+Sharma+MS',
+    image: 'https://img.youtube.com/vi/UbmyOJ-uux4/hqdefault.jpg',
+    videoLink: 'https://www.youtube.com/watch?v=UbmyOJ-uux4',
   },
 
   {
@@ -70,7 +71,7 @@ const projects = [
     typeLabel: 'Music Video',
     role: 'Featured Appearance',
     year: '2023',
-    image: 'https://img.youtube.com/vi/fO39St3ADnk/maxresdefault.jpg',
+    image: 'https://img.youtube.com/vi/fO39St3ADnk/hqdefault.jpg',
     videoLink: 'https://www.youtube.com/watch?v=fO39St3ADnk',
   },
 
@@ -81,7 +82,7 @@ const projects = [
     typeLabel: 'Music Video',
     role: 'Featured Appearance',
     year: '2023',
-    image: 'https://img.youtube.com/vi/MlxDNu6ljdk/maxresdefault.jpg',
+    image: 'https://img.youtube.com/vi/MlxDNu6ljdk/hqdefault.jpg',
     videoLink: 'https://www.youtube.com/watch?v=MlxDNu6ljdk',
   },
 
@@ -92,7 +93,7 @@ const projects = [
     typeLabel: 'Music Video',
     role: 'Featured Appearance',
     year: '2023',
-    image: 'https://img.youtube.com/vi/vs-ZSzn2xso/maxresdefault.jpg',
+    image: 'https://img.youtube.com/vi/vs-ZSzn2xso/hqdefault.jpg',
     videoLink: 'https://www.youtube.com/watch?v=vs-ZSzn2xso',
   },
 
@@ -103,7 +104,8 @@ const projects = [
     typeLabel: 'Music Video',
     role: 'Featured Appearance',
     year: '2023',
-    image: 'https://via.placeholder.com/800x1000?text=Harpreet+Song+H',
+    image: 'https://img.youtube.com/vi/BZ3l581VuAw/hqdefault.jpg',
+    videoLink: 'https://www.youtube.com/watch?v=BZ3l581VuAw',
   },
 
   {
@@ -113,7 +115,7 @@ const projects = [
     typeLabel: 'Devotional Music Video',
     role: 'Child Artist',
     year: '2023',
-    image: 'https://img.youtube.com/vi/gg7XZ3d4zWg/maxresdefault.jpg',
+    image: 'https://img.youtube.com/vi/gg7XZ3d4zWg/hqdefault.jpg',
     videoLink: 'https://www.youtube.com/watch?v=gg7XZ3d4zWg',
   },
 
@@ -124,7 +126,7 @@ const projects = [
     typeLabel: 'Music Video',
     role: 'Emotional Child Role',
     year: '2023',
-    image: 'https://img.youtube.com/vi/-maGP96d55c/maxresdefault.jpg',
+    image: 'https://img.youtube.com/vi/-maGP96d55c/hqdefault.jpg',
     videoLink: 'https://www.youtube.com/watch?v=-maGP96d55c',
   },
 
@@ -135,7 +137,7 @@ const projects = [
     typeLabel: 'Music Video',
     role: 'Featured Appearance',
     year: '2023',
-    image: 'https://img.youtube.com/vi/af3HoSQAjgA/maxresdefault.jpg',
+    image: 'https://img.youtube.com/vi/af3HoSQAjgA/hqdefault.jpg',
     videoLink: 'https://www.youtube.com/watch?v=af3HoSQAjgA',
   },
 
@@ -146,7 +148,7 @@ const projects = [
     typeLabel: 'Music Video',
     role: 'Featured Appearance',
     year: '2023',
-    image: 'https://img.youtube.com/vi/9rZYFlDlb5Y/maxresdefault.jpg',
+    image: 'https://img.youtube.com/vi/9rZYFlDlb5Y/hqdefault.jpg',
     videoLink: 'https://www.youtube.com/watch?v=9rZYFlDlb5Y',
   },
 
@@ -157,7 +159,7 @@ const projects = [
     typeLabel: 'Music Video',
     role: 'Featured Appearance',
     year: '2023',
-    image: 'https://img.youtube.com/vi/4h3VvW4qv5s/maxresdefault.jpg',
+    image: 'https://img.youtube.com/vi/4h3VvW4qv5s/hqdefault.jpg',
     videoLink: 'https://www.youtube.com/watch?v=4h3VvW4qv5s',
   },
 
@@ -168,7 +170,7 @@ const projects = [
     typeLabel: 'Music Video',
     role: 'Featured Appearance',
     year: '2023',
-    image: 'https://img.youtube.com/vi/LvL8EUumrVQ/maxresdefault.jpg',
+    image: 'https://img.youtube.com/vi/LvL8EUumrVQ/hqdefault.jpg',
     videoLink: 'https://www.youtube.com/watch?v=LvL8EUumrVQ',
   },
 
@@ -179,7 +181,7 @@ const projects = [
     typeLabel: 'Music Video',
     role: 'Featured Appearance',
     year: '2023',
-    image: 'https://img.youtube.com/vi/GgPmSV786do/maxresdefault.jpg',
+    image: 'https://img.youtube.com/vi/GgPmSV786do/hqdefault.jpg',
     videoLink: 'https://www.youtube.com/watch?v=GgPmSV786do',
   },
 
@@ -190,7 +192,7 @@ const projects = [
     typeLabel: 'Music Video',
     role: 'Featured Appearance',
     year: '2023',
-    image: 'https://img.youtube.com/vi/IOMyPZgdHzg/maxresdefault.jpg',
+    image: 'https://img.youtube.com/vi/IOMyPZgdHzg/hqdefault.jpg',
     videoLink: 'https://www.youtube.com/watch?v=IOMyPZgdHzg',
   },
 
@@ -203,28 +205,30 @@ const projects = [
     typeLabel: 'Feature Film',
     role: 'Child Artist',
     year: '2024',
-    image: 'https://img.youtube.com/vi/tboP0zeBu-I/maxresdefault.jpg',
+    image: 'https://img.youtube.com/vi/tboP0zeBu-I/hqdefault.jpg',
     videoLink: 'https://www.youtube.com/watch?v=tboP0zeBu-I',
   },
 
-  {
-    id: 'rabba-menu-maaf-kari',
-    title: 'Rabba Menu Maaf Kari',
-    category: 'film',
-    typeLabel: 'Feature Film',
-    role: 'Supporting Role',
-    year: '2024',
-    image: 'https://via.placeholder.com/800x1000?text=Rabba+Menu+Maaf+Kari',
-  },
+  // {
+  //   id: 'rabba-menu-maaf-kari',
+  //   title: 'Rabba Menu Maaf Kari',
+  //   category: 'film',
+  //   typeLabel: 'Feature Film',
+  //   role: 'Supporting Role',
+  //   year: '2024',
+  //   image: 'https://img.youtube.com/vi/R9K1Xk1B1Dk/hqdefault.jpg',
+  //   videoLink: 'https://www.youtube.com/watch?v=R9K1Xk1B1Dk',
+  // },
 
   {
     id: 'punjab-files',
-    title: 'Punjab Files',
+    title: 'Panjab Files',
     category: 'film',
     typeLabel: 'Feature Film',
     role: 'Child Role',
     year: '2024',
-    image: 'https://via.placeholder.com/800x1000?text=Punjab+Files',
+    image: 'https://img.youtube.com/vi/v7c-shAtMJQ/hqdefault.jpg',
+    videoLink: 'https://youtu.be/v7c-shAtMJQ?si=AbgpsJuoUBiGJLnu',
   },
 
   {
@@ -234,32 +238,34 @@ const projects = [
     typeLabel: 'Feature Film',
     role: 'Supporting Child Role',
     year: '2024',
-    image: 'https://via.placeholder.com/800x1000?text=Godday+Godday+Chaa+2',
+    image: 'https://img.youtube.com/vi/27HGu0tUTQk/hqdefault.jpg',
+    videoLink: 'https://youtu.be/27HGu0tUTQk?si=ATtK9rGpHjgmOoo6',
   },
 
   {
     id: 'ek-tere-karke',
-    title: 'Ek Tere Karke',
+    title: 'Ik Tere Kar K',
     category: 'film',
     typeLabel: 'Feature Film',
     role: 'Child Artist',
     year: '2024',
-    image: 'https://via.placeholder.com/800x1000?text=Ek+Tere+Karke',
+    image: 'https://img.youtube.com/vi/igzdSNigUHk/hqdefault.jpg',
+    videoLink: 'https://youtu.be/igzdSNigUHk?si=cW8CsXj77puhMiqK',
   },
 
   // ===================== ADVERTISEMENT =====================
 
-  {
-    id: 'tata-allianz',
-    title: 'TATA Allianz Group Advertisement',
-    category: 'ad',
-    typeLabel: 'Commercial',
-    role: 'Featured Child',
-    year: '2023',
-    image: 'https://img.youtube.com/vi/9rZYFlDlb5Y/maxresdefault.jpg',
-    videoLink: 'https://www.youtube.com/watch?v=9rZYFlDlb5Y',
-  },
-];
+//   {
+//     id: 'tata-allianz',
+//     title: 'TATA Allianz Group Advertisement',
+//     category: 'ad',
+//     typeLabel: 'Commercial',
+//     role: 'Featured Child',
+//     year: '2023',
+//     image: 'https://img.youtube.com/vi/gg7XZ3d4zWg/hqdefault.jpg',
+//     videoLink: 'https://www.youtube.com/watch?v=gg7XZ3d4zWg',
+//   },
+ ];
 const galleryModules = import.meta.glob(
   './images/gallery/**/*.{png,jpg,jpeg,webp,avif}',
   { eager: true }
@@ -283,28 +289,6 @@ const galleryImages = Object.entries(galleryModules).map(
   }
 )
 
-// const galleryModules = import.meta.glob(
-//   './images/gallery/*.{png,jpg,jpeg,JPG,JPEG,webp,avif}',
-//   {
-//     eager: true,
-//     query: '?url',
-//     import: 'default',
-//   },
-// )
-
-// const galleryImages = Object.entries(galleryModules).map(
-//   ([path, src], index) => {
-//     const filename = path.split('/').pop() || `image-${index + 1}`
-//     const baseName = filename.replace(/\.[^.]+$/, '')
-//     const label = baseName.replace(/[_-]+/g, ' ')
-//     return {
-//       id: `gallery-${index + 1}`,
-//       thumb: src,
-//       full: src,
-//       alt: `Seerat gallery photo - ${label}`,
-//     }
-//   },
-// )
 
 function App() {
   const [activeFilter, setActiveFilter] = useState('all')
@@ -585,7 +569,7 @@ function App() {
                 >
                   Songs
                 </button>
-                <button
+                {/* <button
                   type="button"
                   className={`filter-btn${
                     activeFilter === 'ad' ? ' active' : ''
@@ -595,7 +579,7 @@ function App() {
                   onClick={() => setActiveFilter('ad')}
                 >
                   Advertisements
-                </button>
+                </button> */}
               </div>
               <div className="project-grid">
                 {filteredProjects.map((project) => (
@@ -728,82 +712,33 @@ function App() {
                 <div className="contact-details">
                   <h3>Parent / Manager</h3>
                   <p className="contact-name">Anupreet Arora</p>
-                  <dl className="detail-list">
-                    <div className="detail-row">
-                      <dt>Phone</dt>
-                      <dd>
-                        <a href="tel:+919779119333 ">+91 97791 19333</a>
-                      </dd>
-                    </div>
-                    <div className="detail-row">
-                      <dt>Email</dt>
-                      <dd>
-                        <a href="mailto:seeratofficial216@gmail.com">
-                          seeratofficial216@gmail.com
-                        </a>
-                      </dd>
-                    </div>
-                    <div className="detail-row">
-                      <dt>Instagram</dt>
-                      <dd>
-                        <a
-                          href="https://www.instagram.com/official_seerat223?utm_source=qr&igsh=aGRnaW1uMDQzcnVy"
-                          target="_blank"
-                          rel="noreferrer"
-                        >
-                          instagram.com/seerat
-                        </a>
-                      </dd>
-                    </div>
-                    <div className="detail-row">
-                      <dt>Facebook</dt>
-                      <dd>
-                        <a
-                          href="https://share.google/FSN01L7kqvs00nevo"
-                          target="_blank"
-                          rel="noreferrer"
-                        >
-                          facebook.com/seerat
-                        </a>
-                      </dd>
-                    </div>
-                    <div className="detail-row">
-                      <dt>Facebook</dt>
-                      <dd>
-                        <a
-                          href="https://youtube.com/@offical_seerat223?si=30p7oaWdqhq08uHc"
-                          target="_blank"
-                          rel="noreferrer"
-                        >
-                          youtube.com/@offical_seerat
-                        </a>
-                      </dd>
-                    </div>
-                  </dl>
-                  <div className="contact-icons">
-                    <a
-                      href="tel:+919779119333 "
-                      className="contact-icon"
-                      aria-label="Call parent or manager"
-                    >
-                      <svg viewBox="0 0 24 24" aria-hidden="true">
-                        <path d="M6.6 2.8 8.8 2A2 2 0 0 1 11.3 3.2l1 3.4a2 2 0 0 1-.5 2L10.7 9.7a11 11 0 0 0 4.6 4.6l1.1-1.1a2 2 0 0 1 2-.5l3.4 1a2 2 0 0 1 1.2 2.5l-.8 2.2A2 2 0 0 1 20.3 20 17 17 0 0 1 4 3.7a2 2 0 0 1 2.6-0.9Z" />
-                      </svg>
+                  
+                  <div className="contact-links-list">
+                    <a href="tel:+919779119333" className="contact-link-item">
+                      <div className="contact-link-icon">
+                        <svg viewBox="0 0 24 24" aria-hidden="true">
+                          <path d="M6.6 2.8 8.8 2A2 2 0 0 1 11.3 3.2l1 3.4a2 2 0 0 1-.5 2L10.7 9.7a11 11 0 0 0 4.6 4.6l1.1-1.1a2 2 0 0 1 2-.5l3.4 1a2 2 0 0 1 1.2 2.5l-.8 2.2A2 2 0 0 1 20.3 20 17 17 0 0 1 4 3.7a2 2 0 0 1 2.6-0.9Z" />
+                        </svg>
+                      </div>
+                      <span className="contact-link-text">+91 97791 19333</span>
                     </a>
-                    <a
-                      href="mailto: seeratofficial216@gmail.com"
-                      className="contact-icon"
-                      aria-label="Email for casting enquiries"
-                    >
-                      <svg viewBox="0 0 24 24" aria-hidden="true">
-                        <path d="M4 5h16a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2Zm0 2v.2l8 5 8-5V7H4Zm0 3.5V17h16v-6.5l-7.4 4.6a2 2 0 0 1-2.1 0L4 10.5Z" />
-                      </svg>
+
+                    <a href="mailto:seeratofficial216@gmail.com" className="contact-link-item">
+                      <div className="contact-link-icon">
+                        <svg viewBox="0 0 24 24" aria-hidden="true">
+                          <path d="M4 5h16a2 2 0 0 1 2 2v10a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V7a2 2 0 0 1 2-2Zm0 2v.2l8 5 8-5V7H4Zm0 3.5V17h16v-6.5l-7.4 4.6a2 2 0 0 1-2.1 0L4 10.5Z" />
+                        </svg>
+                      </div>
+                      <span className="contact-link-text">seeratofficial216@gmail.com</span>
                     </a>
+                  </div>
+
+                  <div className="contact-socials">
                     <a
                       href="https://www.instagram.com/official_seerat223?utm_source=qr&igsh=aGRnaW1uMDQzcnVy"
                       target="_blank"
                       rel="noreferrer"
-                      className="contact-icon"
+                      className="contact-social-btn"
                       aria-label="Instagram profile"
                     >
                       <svg viewBox="0 0 24 24" aria-hidden="true">
@@ -814,12 +749,23 @@ function App() {
                       href="https://share.google/FSN01L7kqvs00nevo"
                       target="_blank"
                       rel="noreferrer"
-                      className="contact-icon"
+                      className="contact-social-btn"
                       aria-label="Facebook profile"
                     >
                       <svg viewBox="0 0 24 24" aria-hidden="true">
                         <path d="M13 21v-7h2.3a1 1 0 0 0 1-.8l.4-2.5A1 1 0 0 0 15.7 9H13V7.2A1.2 1.2 0 0 1 14.3 6H17a1 1 0 0 0 1-1V3.7A1 1 0 0 0 17 2h-3.8A4.2 4.2 0 0 0 9 6.3V9H7a1 1 0 0 0-1 .9v2.3a1 1 0 0 0 1 .8h2v7a1 1 0 0 0 1 1h2a1 1 0 0 0 1-1Z" />
                       </svg>
+                    </a>
+                    <a
+                      href="https://youtube.com/@offical_seerat223?si=30p7oaWdqhq08uHc"
+                      target="_blank"
+                      rel="noreferrer"
+                      className="contact-social-btn"
+                      aria-label="YouTube channel"
+                    >
+                      <svg viewBox="0 0 24 24" aria-hidden="true">
+                        <path d="M23.5 6.2c-.3-1.1-1.1-2-2.2-2.3C19.3 3.5 12 3.5 12 3.5s-7.3 0-9.3.4c-1.1.3-1.9 1.2-2.2 2.3C.1 8.2 0 12 0 12s.1 3.8.5 5.8c.3 1.1 1.1 2 2.2 2.3 2 .4 9.3.4 9.3.4s7.3 0 9.3-.4c1.1-.3 1.9-1.2 2.2-2.3.4-2 .5-5.8.5-5.8s-.1-3.8-.5-5.8zM9.5 15.5V8.5l6.5 3.5-6.5 3.5z" />
+                        </svg>
                     </a>
                   </div>
                 </div>
