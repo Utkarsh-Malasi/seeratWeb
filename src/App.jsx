@@ -1,7 +1,8 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 import './App.css'
 import heroPoster from './images/gallery/WhatsApp Image 2026-02-20 at 12.15.12 PM.jpeg'
 import profileVideo from './images/gallery/profile.mp4'
+import auditionVideo from './images/gallery/audition.mp4'
 import logoImg from './images/workexp/logo.png'
 
 const projects = [
@@ -295,6 +296,8 @@ function App() {
   const [navOpen, setNavOpen] = useState(false)
   const [selectedProject, setSelectedProject] = useState(null)
   const [gallerySelection, setGallerySelection] = useState(null)
+  const heroVideoRef = useRef(null)
+  const showreelVideoRef = useRef(null)
 
   useEffect(() => {
     const elements = document.querySelectorAll('[data-animate]')
@@ -339,6 +342,15 @@ function App() {
     activeFilter === 'all'
       ? projects
       : projects.filter((project) => project.category === activeFilter)
+
+  const pauseOtherVideo = (activeVideo) => {
+    const videos = [heroVideoRef.current, showreelVideoRef.current]
+    videos.forEach((video) => {
+      if (video && video !== activeVideo) {
+        video.pause()
+      }
+    })
+  }
 
   return (
     <div className="app-root">
@@ -423,14 +435,14 @@ function App() {
               <div className="hero-media" data-animate>
                 <div className="hero-image-frame">
                   <video
+                    ref={heroVideoRef}
                     className="hero-image"
                     src={profileVideo}
                     poster={heroPoster}
-                    autoPlay
                     muted
                     playsInline
-                    loop
                     controls
+                    onPlay={(event) => pauseOtherVideo(event.currentTarget)}
                   />
                   <div className="hero-badge">
                     <span className="hero-badge-label">Available for</span>
@@ -660,12 +672,14 @@ function App() {
               </div>
               <div className="showreel-frame">
                 <div className="video-wrapper">
-                  <iframe
-                    src="https://www.youtube.com/embed/GyWw1RDCpyE?si=CAiAbTrF39F8peOT"
+                  <video
+                    ref={showreelVideoRef}
+                    src={auditionVideo}
                     title="Child actor showreel"
-                    loading="lazy"
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                    allowFullScreen
+                    controls
+                    playsInline
+                    preload="metadata"
+                    onPlay={(event) => pauseOtherVideo(event.currentTarget)}
                   />
                 </div>
               </div>
